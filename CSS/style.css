@@ -6,6 +6,8 @@ h1{
 }
 p{
     font-size: 18px;
+    text-align: center;      /*alineado del texto*/
+    font-weight: bold;        /*colocar negrilla*/
 }
 ul{
     font-size: 18px;
